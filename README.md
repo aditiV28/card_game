@@ -76,8 +76,8 @@ card_game/
 
 1. **Clone the repository:**
 ```bash
-    git clone https://github.com/aditiV28/hi_lo_card_game.git
-    cd "folder_name"
+    git clone https://github.com/aditiV28/card_game.git
+    cd card_game
 ```
 
 2. **Run the game:**
